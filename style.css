@@ -1,0 +1,21 @@
+body {
+    background-color: black
+}
+
+h1 {
+    color: aqua;
+
+    
+    text-align: center;
+    font-size: 55px; 
+
+font-weight: 100;
+
+font-family: fantasy;
+
+text-transform: uppercase;
+
+text-decoration: underline double;
+
+
+}
